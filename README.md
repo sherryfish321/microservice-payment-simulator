@@ -18,4 +18,6 @@ A simulated microservice-based payment platform with containerized services, CI/
 - Centralized logging with Loki
 
 ## Status
-Day 1: Project planning and structure completed ✅
+Step 1: Project planning and structure completed ✅  
+Step 2: Complete User Service (Flask + MongoDB) + Password Hashing + Clear Test API ✅
+
