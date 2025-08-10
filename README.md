@@ -20,4 +20,5 @@ A simulated microservice-based payment platform with containerized services, CI/
 ## Status
 Step 1: Project planning and structure completed ✅  
 Step 2: Complete User Service (Flask + MongoDB) + Password Hashing + Clear Test API ✅
+Step 3: Add Order Service (Flask + Postgres) and update shared configuration ✅
 
